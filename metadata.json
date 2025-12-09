@@ -1,0 +1,7 @@
+{
+  "name": "M Christmas Tree - Luxury Edition",
+  "description": "A high-fidelity 3D interactive Christmas tree with Barbie-core luxury aesthetics, featuring explosive particle physics and gesture interaction simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
